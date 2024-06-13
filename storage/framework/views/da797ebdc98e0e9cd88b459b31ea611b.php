@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\BB-project\Bigbrew\resources\views/welcome.blade.php ENDPATH**/ ?>
